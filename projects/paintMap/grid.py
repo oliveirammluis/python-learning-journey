@@ -1,6 +1,6 @@
 # grid.py
 
-GRID_SIZE = 10      # number of cells per row/column
+GRID_SIZE = 5      # number of cells per row/column
 CELL_SIZE = 40      # size of each cell in pixels
 
 # create a 10x10 grid initialized with 0 (not painted)
